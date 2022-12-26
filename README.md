@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Saptak Das. 🚀
+- I am an avid, 11th grade, full-stack programmer. 💻
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Saptak625)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625)](https://github.com/anuraghazra/github-readme-stats)
