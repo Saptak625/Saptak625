@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  
+### 👋 Hello there, I’m Saptak Das. 🚀
 
 <!--
 **Saptak625/Saptak625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Saptak Das. 🚀
-- I am an avid, 11th grade, full-stack programmer. 💻
+I am an avid, 11th grade, full-stack programmer who loves to automate everything. 💻
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Saptak625)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Saptak625)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625)
+</div>
