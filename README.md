@@ -10,7 +10,7 @@
 
 <h2 align="center"> Self-taught and passionate about coding! </h2><br>
 
-<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixels-neon.gif" height="300px" alt="pixel city image">
+<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixels-neon.gif" width="50%" alt="pixel city image">
 <div align="left">
 
 <div align="left">
