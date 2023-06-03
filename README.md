@@ -42,9 +42,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Saptak625&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <br><br>
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Saptak625&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
 </div> <br>
 
-![Saptak625's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saptak625&custom_title=Saptak625's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+![Saptak625's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptak625&custom_title=Saptak625's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 </br>
 
