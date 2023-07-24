@@ -28,11 +28,11 @@
 <div align="center">
   <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,nodejs,vite,html,css,js,cpp,cs,unity,sqlite,swift,processing,atom,vscode,firebase,vercel,figma" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,nodejs,vite,html,css,js,postman,cpp,cs,unity,mysql,sqlite,swift,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku&perline=16" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=jquery,bash,aws,pytorch,sass,tailwind,latex" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=matlab,jquery,bash,autocad,aws,pytorch,sass,tailwind,latex,julia,r,django,astro&perline=16" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=svelte,react,rust,ruby,julia,arduino,raspberrypi,django,kotlin,r,tensorflow" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=svelte,react,angular,wasm,docker,webpack,rust,ruby,arduino,raspberrypi,perl,gcp,kotlin,maven,tensorflow&perline=16" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
