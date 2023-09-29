@@ -14,7 +14,7 @@
 <div align="left">
 
 <div align="left">
-<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid, 11th grade, full-stack programmer at the Downingtown STEM Academy who loves to automate everything. 💻 <br><br></li>
+<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid, 12th grade, full-stack programmer at the Downingtown STEM Academy who loves to automate everything. 💻 <br><br></li>
 
 <li>🌳 I’m currently learning Flask, Bootstrap and Sass! <br><br></li>
 
