@@ -1,4 +1,3 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Saptak.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Saptak! Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
@@ -14,7 +13,7 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-<h2 align="center"> <strong> Self-taught and passionate about coding! </strong> </h2><img src="./assets/borderseparator.gif"/><br>
+<h2 align="center"> <strong> Self-taught and passionate about coding!</strong> <p></p></h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
 <li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid, 12th grade, full-stack programmer at the Downingtown STEM Academy who loves to automate everything. 💻 <br><br></li>
@@ -32,7 +31,7 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-<h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
+<h2 align="center"> <strong> ⚙️ Technologies and Skills </strong><p></p></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,nodejs,vite,html,css,js,postman,cpp,cs,unity,mysql,sqlite,swift,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku&perline=16" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
@@ -45,7 +44,7 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 
-<h2 align="center"> <strong>🏆 My Github Stats </strong></h2><img src="./assets/borderseparator.gif"/><br>
+<h2 align="center"> <strong>🏆 My Github Stats </strong><p></p></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <h2></h2>
   <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" width="49%" alt="streaks graph" />
