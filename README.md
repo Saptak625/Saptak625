@@ -1,3 +1,4 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Saptak.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Saptak! Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
@@ -40,22 +41,18 @@
   <img src="https://skillicons.dev/icons?i=svelte,react,angular,wasm,docker,webpack,rust,ruby,arduino,raspberrypi,perl,gcp,kotlin,maven,tensorflow&perline=16" alt="skills planning to learn logos">
 </div></br>
 
-<h2></h2>
-
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 
 <h2 align="center"> <strong>🏆 My Github Stats </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" width="49%" height="250px" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptak625&theme=radical&show_icons=true&count_private=true" width="49%" height="250px" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625&theme=radical&langs_count=10&card_width=540&layout=compact" width="49%" height="250px" alt="Most used languages"> <br>
-</div> <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <h2></h2>
+  <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptak625&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625&theme=radical&langs_count=10&card_width=540&layout=compact" width="80%" alt="Most used languages">
+</div>
 
 ![Saptak625's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptak625&custom_title=Saptak625's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
-</br>
 
 <img src="./assets/animated-wave.svg" />
