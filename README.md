@@ -1,5 +1,7 @@
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Saptak.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Saptak! Welcome to my Profile! animated typed out" width="100%"/>
-<img src="./assets/borderseparator.gif" width="100%"/>
+<img src="https://github.com/Saptak625/Saptak625/blob/main/assets/borderseparator.gif" width="100%"/>
 
 <p align="center"> 
   <b>Profile Views</b><br>
@@ -8,9 +10,11 @@
 
 <h2></h2>
 
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 <h2 align="center"> Self-taught and passionate about coding! </h2><br>
 
-<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/pixels-neon.gif" width="50%" alt="pixel city image">
+<img align="right" src="https://github.com/Saptak625/Saptak625/blob/main/assets/vaporwave-aesthetic.gif" width="50%" alt="pixel city image">
 <div align="left">
 
 <div align="left">
@@ -26,8 +30,11 @@
 </div>
 
 <div align="center">
-  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
-  <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github.com/Saptak625/Saptak625/blob/main/assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />
+
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  <h2> <strong> Technologies and Skills </strong><img src="https://github.com/Saptak625/Saptak625/blob/main/assets/borderseparator.gif"/></h2><br>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,nodejs,vite,html,css,js,postman,cpp,cs,unity,mysql,sqlite,swift,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku&perline=16" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=matlab,jquery,bash,autocad,aws,pytorch,sass,tailwind,latex,julia,r,django,astro&perline=16" alt="skills actively learning logos"> <br> 
@@ -38,7 +45,10 @@
 <h2></h2>
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+  <h2> 🏆 My Github Stats <img src="https://github.com/Saptak625/Saptak625/blob/main/assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" width="49%" height="250px" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Saptak625&theme=radical&show_icons=true&count_private=true" width="49%" height="250px" alt="stats graph" />
@@ -49,4 +59,4 @@
 
 </br>
 
-<img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
+<img src="https://github.com/Saptak625/Saptak625/blob/main/assets/animated-wave.svg" />
