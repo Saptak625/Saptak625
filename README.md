@@ -13,7 +13,7 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-<p><h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2></p><img src="./assets/borderseparator.gif"/><br>
+<h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
 <li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid, 12th grade, full-stack programmer at the Downingtown STEM Academy who loves to automate everything. 💻 <br><br></li>
