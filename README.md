@@ -22,7 +22,7 @@
 
 <li>🐾 I’m looking to network and make friends here! <br><br></li>
 
-<li>🌊 2023 Goals: Learn JS Frameworks (React, Svelte, etc.), AI, and Machine Learning. <br><br></li>
+<li>🌊 2024 Goals: Learn ML, DL, State-space Estimation, and Statistical Modeling. <br><br></li>
 
 <li>☕ Interest: Science, Math, Engineering, and Coding. <br><br></li>
 </div>
@@ -33,11 +33,11 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 <h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,nodejs,vite,html,css,js,postman,cpp,cs,unity,mysql,sqlite,swift,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku&perline=16" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,bootstrap,anaconda,latex,nodejs,vite,html,css,js,postman,cpp,cs,unity,mysql,sqlite,swift,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku&perline=16" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=matlab,jquery,bash,autocad,aws,pytorch,sass,tailwind,latex,julia,r,django,astro&perline=16" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,r,jquery,bash,autocad,aws,pytorch,sass,tailwind,julia,django,astro&perline=16" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=svelte,react,angular,wasm,docker,webpack,rust,ruby,arduino,raspberrypi,perl,gcp,kotlin,maven,tensorflow&perline=16" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=svelte,react,angular,wasm,docker,webpack,rust,ruby,raspberrypi,perl,gcp,kotlin,maven,tensorflow&perline=16" alt="skills planning to learn logos">
 </div></br>
 
 <img src="./assets/borderseparator.gif"/>
