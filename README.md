@@ -16,15 +16,15 @@
 <h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
-<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid, 12th grade, full-stack programmer at the Downingtown STEM Academy who loves to automate everything. 💻 <br><br></li>
+<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a first-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
 
-<li>🌳 I’m currently learning Flask, Bootstrap and Sass! <br><br></li>
+<li>🌳 I’m currently learning Matlab, Arduino, SolidWorks, and Stan! <br><br></li>
 
-<li>🐾 I’m looking to network and make friends here! <br><br></li>
+<li>🐾 I’m looking to network and grow my skillset! <br><br></li>
 
 <li>🌊 2024 Goals: Learn ML, DL, State-space Estimation, and Statistical Modeling. <br><br></li>
 
-<li>☕ Interest: Science, Math, Engineering, and Coding. <br><br></li>
+<li>☕ Interests: Aerospace Engineering, Computer Science, Applied Mathematics, Control Theory, and Computational Fluid Dynamics.<br><br></li>
 </div>
 
 <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />
