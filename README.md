@@ -27,7 +27,7 @@
 <li>☕ Interests: Aerospace Engineering, Computer Science, Applied Mathematics, Control Theory, and Computational Fluid Dynamics.<br><br></li>
 </div>
 
-<img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />
+<!--<img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />-->
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
