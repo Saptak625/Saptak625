@@ -16,15 +16,15 @@
 <h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
-<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a first-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
+<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a second-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
 
-<li>🌳 I’m currently learning Matlab, Arduino, SolidWorks, and Stan! <br><br></li>
+<li>🌳 I’m currently learning C for embedded systems (hardware and software design), deep reinforcement learning, dynamical systems theory! <br><br></li>
 
 <li>🐾 I’m looking to network and grow my skillset! <br><br></li>
 
-<li>🌊 2024 Goals: Learn ML, DL, State-space Estimation, and Statistical Modeling. <br><br></li>
+<li>🌊 2025 Goals: Learn inertial state estimation (strapdown, Mahony/Madgewick, KF, etc.), Rust, STM32  <br><br></li>
 
-<li>☕ Interests: Aerospace Engineering, Computer Science, Applied Mathematics, Control Theory, and Computational Fluid Dynamics.<br><br></li>
+<li>☕ Interests: Aerospace Engineering (especially rockets), EECS, PCB design, Mathematical Modeling, Control Theory, and Computational Fluid Dynamics.<br><br></li>
 </div>
 
 <!--<img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />-->
@@ -33,11 +33,11 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 <h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,cpp,matlab,html,css,js,bootstrap,anaconda,latex,nodejs,vite,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,qt,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku,arduino&perline=16" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,cpp,matlab,html,css,js,bootstrap,anaconda,latex,docker,ros,c,linux,debian,nodejs,vite,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,qt,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku,arduino&perline=16" alt="skills logos" /> <br>
     <h3> <strong> Actively Learning </strong></h3>
-    <img src="https://skillicons.dev/icons?i=docker,ros,c,linux,debian,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django&perline=16" alt="skills actively learning logos"> <br> 
+    <img src="https://skillicons.dev/icons?i=cmake,rust,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django,tensorflow&perline=16" alt="skills actively learning logos"> <br> 
     <h3> <strong> Planning to Learn </strong></h3>
-    <img src="https://skillicons.dev/icons?i=cmake,rust,haskell,tensorflow,svelte,react,jquery,angular,wasm,webpack,nextjs,mongodb,raspberrypi,perl,gcp,kotlin,maven,netlify,astro&perline=16" alt="skills planning to learn logos">
+    <img src="https://skillicons.dev/icons?i=haskell,svelte,react,jquery,angular,wasm,webpack,nextjs,mongodb,raspberrypi,perl,gcp,kotlin,maven,netlify,astro&perline=16" alt="skills planning to learn logos">
 </div></br>
 
 <img src="./assets/borderseparator.gif"/>
