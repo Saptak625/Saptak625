@@ -17,7 +17,7 @@
 <h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
-<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a second-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
+<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a third-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
 
 <li>🌳 I’m currently learning C for embedded systems (hardware and software design), deep reinforcement learning, and dynamical systems theory! <br><br></li>
 
